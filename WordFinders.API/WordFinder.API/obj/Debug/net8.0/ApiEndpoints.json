@@ -1,0 +1,39 @@
+[
+  {
+    "ContainingType": "WordFinder.API.Controllers.WordFinderController",
+    "Method": "Find",
+    "RelativePath": "api/WordFinder/find/{id}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "value",
+        "Type": "System.String[]",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WordFinder.API.Controllers.WordFinderController",
+    "Method": "Post",
+    "RelativePath": "api/WordFinder/init",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "value",
+        "Type": "System.String[]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

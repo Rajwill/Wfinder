@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WordFinderHelpers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+feaf763528607e4c993600492f90532f1bb63c6f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e6a64658624cc2d6c9180b8c0bc1b5e82f929fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("WordFinderHelpers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WordFinderHelpers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

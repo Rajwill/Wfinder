@@ -3,22 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\jdelgaw\\Downloads\\WF\\Wfinder\\WordFinders.Console\\WordFinderConsole\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F2EDBB17-FCB0-4B53-95E8-7C1F6B811D86}|..\\WFinder.Test\\WFinder.Test.csproj|c:\\users\\jdelgaw\\downloads\\wf\\wfinder\\wordfinders.console\\wfinder.test\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34D61F0B-D73D-4CAD-B026-D7E848E51C6A}|..\\WordFinderHelpers\\WordFinderHelpers.csproj|c:\\users\\jdelgaw\\downloads\\wf\\wfinder\\wordfinders.console\\wordfinderhelpers\\finderhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{385C5C53-13CE-40A9-8465-6834C86F4AF7}|WordFinderConsole.csproj|c:\\users\\jdelgaw\\downloads\\wf\\wfinder\\wordfinders.console\\wordfinderconsole\\finderhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{385C5C53-13CE-40A9-8465-6834C86F4AF7}|WordFinderConsole.csproj|solutionrelative:finderhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{385C5C53-13CE-40A9-8465-6834C86F4AF7}|WordFinderConsole.csproj|c:\\users\\jdelgaw\\downloads\\wf\\wfinder\\wordfinders.console\\wordfinderconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{385C5C53-13CE-40A9-8465-6834C86F4AF7}|WordFinderConsole.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{385C5C53-13CE-40A9-8465-6834C86F4AF7}|WordFinderConsole.csproj|c:\\users\\jdelgaw\\downloads\\wf\\wfinder\\wordfinders.console\\wordfinderconsole\\directionword.helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{385C5C53-13CE-40A9-8465-6834C86F4AF7}|WordFinderConsole.csproj|solutionrelative:directionword.helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385C5C53-13CE-40A9-8465-6834C86F4AF7}|WordFinderConsole.csproj|c:\\users\\jdelgaw\\downloads\\wf\\wfinder\\wordfinders.console\\wordfinderconsole\\finderhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{385C5C53-13CE-40A9-8465-6834C86F4AF7}|WordFinderConsole.csproj|solutionrelative:finderhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2EDBB17-FCB0-4B53-95E8-7C1F6B811D86}|..\\WFinder.Test\\WFinder.Test.csproj|c:\\users\\jdelgaw\\downloads\\wf\\wfinder\\wordfinders.console\\wfinder.test\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D61F0B-D73D-4CAD-B026-D7E848E51C6A}|..\\WordFinderHelpers\\WordFinderHelpers.csproj|c:\\users\\jdelgaw\\downloads\\wf\\wfinder\\wordfinders.console\\wordfinderhelpers\\finderhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,7 +28,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -64,20 +64,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Test.cs",
               "DocumentMoniker": "C:\\Users\\jdelgaw\\Downloads\\WF\\Wfinder\\WordFinders.Console\\WFinder.Test\\Test.cs",
               "RelativeDocumentMoniker": "..\\WFinder.Test\\Test.cs",
               "ToolTip": "C:\\Users\\jdelgaw\\Downloads\\WF\\Wfinder\\WordFinders.Console\\WFinder.Test\\Test.cs",
               "RelativeToolTip": "..\\WFinder.Test\\Test.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA8wBoAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwBoAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-11T16:28:37.811Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "FinderHelper.cs",
               "DocumentMoniker": "C:\\Users\\jdelgaw\\Downloads\\WF\\Wfinder\\WordFinders.Console\\WordFinderHelpers\\FinderHelper.cs",
               "RelativeDocumentMoniker": "..\\WordFinderHelpers\\FinderHelper.cs",
@@ -85,18 +85,17 @@
               "RelativeToolTip": "..\\WordFinderHelpers\\FinderHelper.cs",
               "ViewState": "AgIAADMAAAAAAAAAAAAowEEAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T15:58:45.298Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T15:58:45.298Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "DirectionWord.Helper.cs",
               "DocumentMoniker": "C:\\Users\\jdelgaw\\Downloads\\WF\\Wfinder\\WordFinders.Console\\WordFinderConsole\\DirectionWord.Helper.cs",
               "RelativeDocumentMoniker": "DirectionWord.Helper.cs",
               "ToolTip": "C:\\Users\\jdelgaw\\Downloads\\WF\\Wfinder\\WordFinders.Console\\WordFinderConsole\\DirectionWord.Helper.cs",
               "RelativeToolTip": "DirectionWord.Helper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-11T15:51:03.33Z",
               "EditorCaption": ""
@@ -109,20 +108,20 @@
               "RelativeDocumentMoniker": "FinderHelper.cs",
               "ToolTip": "C:\\Users\\jdelgaw\\Downloads\\WF\\Wfinder\\WordFinders.Console\\WordFinderConsole\\FinderHelper.cs",
               "RelativeToolTip": "FinderHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABmAAAAAAAAAA==",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAmwH0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-11T15:39:01.366Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jdelgaw\\Downloads\\WF\\Wfinder\\WordFinders.Console\\WordFinderConsole\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\jdelgaw\\Downloads\\WF\\Wfinder\\WordFinders.Console\\WordFinderConsole\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAkwAsAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAiwCIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-11T15:24:36.312Z",
               "EditorCaption": ""
