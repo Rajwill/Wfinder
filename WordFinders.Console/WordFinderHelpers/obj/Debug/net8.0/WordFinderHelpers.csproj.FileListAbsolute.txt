@@ -1,0 +1,12 @@
+C:\Users\jdelgaw\Downloads\WF\Wfinder\WordFinders.Console\WordFinderHelpers\bin\Debug\net8.0\WordFinderHelpers.deps.json
+C:\Users\jdelgaw\Downloads\WF\Wfinder\WordFinders.Console\WordFinderHelpers\bin\Debug\net8.0\WordFinderHelpers.dll
+C:\Users\jdelgaw\Downloads\WF\Wfinder\WordFinders.Console\WordFinderHelpers\bin\Debug\net8.0\WordFinderHelpers.pdb
+C:\Users\jdelgaw\Downloads\WF\Wfinder\WordFinders.Console\WordFinderHelpers\obj\Debug\net8.0\WordFinderHelpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jdelgaw\Downloads\WF\Wfinder\WordFinders.Console\WordFinderHelpers\obj\Debug\net8.0\WordFinderHelpers.AssemblyInfoInputs.cache
+C:\Users\jdelgaw\Downloads\WF\Wfinder\WordFinders.Console\WordFinderHelpers\obj\Debug\net8.0\WordFinderHelpers.AssemblyInfo.cs
+C:\Users\jdelgaw\Downloads\WF\Wfinder\WordFinders.Console\WordFinderHelpers\obj\Debug\net8.0\WordFinderHelpers.csproj.CoreCompileInputs.cache
+C:\Users\jdelgaw\Downloads\WF\Wfinder\WordFinders.Console\WordFinderHelpers\obj\Debug\net8.0\WordFinderHelpers.sourcelink.json
+C:\Users\jdelgaw\Downloads\WF\Wfinder\WordFinders.Console\WordFinderHelpers\obj\Debug\net8.0\WordFinderHelpers.dll
+C:\Users\jdelgaw\Downloads\WF\Wfinder\WordFinders.Console\WordFinderHelpers\obj\Debug\net8.0\refint\WordFinderHelpers.dll
+C:\Users\jdelgaw\Downloads\WF\Wfinder\WordFinders.Console\WordFinderHelpers\obj\Debug\net8.0\WordFinderHelpers.pdb
+C:\Users\jdelgaw\Downloads\WF\Wfinder\WordFinders.Console\WordFinderHelpers\obj\Debug\net8.0\ref\WordFinderHelpers.dll
