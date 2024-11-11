@@ -37,7 +37,7 @@ In order to execute the console app you need to select it first as startup proje
 
 A console application is going to prompt. You need to follow the instructions. You are going to be prompted to type the path to a file which is going to serve as grid matrix. Each line on that file will be a row in the matrix. You can have a maximum of 64 lines and each line should have a maximum of 64 characters.
 
-    In the repo you will find two files FileToDemo1.txt and FileToDemo1.txt which are demo for the console app.
+    In the repo you will find two files FileToDemo1.txt and WordsToFind.txt which are demo for the console app.
 
 Once you select the file the application console is going to ask you for the words stream. You need to provide another file path but this time should have a single line that contains all the words to search separated with a blank space.
 
