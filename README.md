@@ -58,9 +58,15 @@ The REST API application has two endpoints:
 
     api/board/init
     api/board/find/{uid}
+  
+
+![Screenshot 2024-11-11 160832](https://github.com/user-attachments/assets/1ca20b7b-0c93-492e-9e19-95236bc292c6)
 
 In the first method you need to provide a json array with the board. Same constrains as the application console. This will initialize the board on the API application. It will also return you an UiD that you wil need to use to call the second method.
 
 If you call the second method before call the init the application it's going to response an 204 http response code.
 
 The second method you need to post the words stream as a json array and using into the url the UiD you got in the previous step.
+
+![Screenshot 2024-11-11 160945](https://github.com/user-attachments/assets/8db75c40-adf8-46d2-81e5-63b5f0398a0d)
+
